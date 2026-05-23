@@ -10,7 +10,7 @@ bevy = {version = "*", features = ["webgpu", "multi_threaded", "common_api", "me
 bevy_slugtext = "0.1.0"
 compactly = "0.1.6"
 redb = { version = "^4" }
-rayon = { version = "*"}
+# rayon = { version = "*"}
 
 [profile.dev]
 opt-level = 1
